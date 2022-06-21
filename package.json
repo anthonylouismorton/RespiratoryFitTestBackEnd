@@ -27,6 +27,7 @@
     "jest": "^28.1.1",
     "mssql": "^8.1.2",
     "nodemon": "^2.0.16",
-    "supertest": "^6.2.3"
+    "supertest": "^6.2.3",
+    "tedious": "^14.6.0"
   }
 }
